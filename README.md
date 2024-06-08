@@ -26,11 +26,8 @@ To get started with the content in this repository, you will need to have the fo
 - [Jupyter Notebook](https://jupyter.org/install)
 - [Git](https://git-scm.com/downloads)
 
-Clone the repository to your local machine using:
 
-```bash
-git clone https://github.com/your-username/upskilling-data-science.git
-cd upskilling-data-science
+
 
 ## Contributing
 
